@@ -17,6 +17,6 @@ _Usage :_ Use checkbook in upper-right to toggle display of code and PEP recomme
 Installation :
 --------------
 
-    cd ~/Library/Application\ Support/TextMate/Bundles/
+    cd /Applications/TextMate.app/Contents/SharedSupport/Bundles/
     git clone git://github.com/ppierre/python-pep8-tmbundle.git "Python PEP8.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
